@@ -34,23 +34,23 @@ Provides a structured framework for improving commit protocol design, supporting
 
 **Experimental Results (Summary)**:
 
-  | Nodes | Baseline Latency (ms) | Fusion Model Latency (ms) | Improvement (%) |
-  |-------|-----------------------| --------------------------| ----------------|
-  | 3     | 940                   | 410                       | 56.38           |
-  | 5     | 880                   | 360                       | 59.09           |
-  | 7     | 820                   | 330                       | 59.76           |
-  | 9     | 790                   | 310                       | 60.76           |
-  | 11    | 770                   | 295                       | 61.69           |
+  | Nodes | Conventional 2PC Protocol Lock Hold Time (ms) | Optimized Commit Transaction Protocol Lock Hold Time (ms) | Improvement (%) |
+  |-------|-----------------------------------------------| ----------------------------------------------------------| ----------------|
+  | 3     | 95                                            | 65                                                        | 31.58           |
+  | 5     | 120                                           | 85                                                        | 29.17           |
+  | 7     | 145                                           | 105                                                       | 27.59           |
+  | 9     | 170                                           | 125                                                       | 26.47           |
+  | 11    | 195                                           | 145                                                       | 25.64           |
 
 **Citation** \
-Hybrid Telemetry Fusion for Early Detection of Systemwide Failures. \
+Enhanced Commit Protocols for Low Latency Distributed Transactions. \
 Vijaya Krishna Namala \
-International Journal of Intelligent Systems and Applications in Engineering \
-E-ISSN-2147-6799 \
+International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences \
+E-ISSN- 2349-7300  \
 **License** \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijisae.org/ \
+https://www.ijirmps.org/ \
 **Author Contact** \
 **LinkedIn**: linkedin.com/in/vijaya-krishna-namala-a42b2958 | **Email**: vijaya.namala@gmail.com
 
