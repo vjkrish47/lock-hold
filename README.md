@@ -1,12 +1,11 @@
 # lock-hold
-Enhanced Commit Protocols for Low Latency Distributed Transactions
+**Enhanced Commit Protocols for Low Latency Distributed Transactions**
 
-# latency
-**Hybrid Telemetry Fusion for Early Detection of Systemwide Failures**
 * Author: Vijaya Krishna Namala
-* Published In : International Journal of Intelligent Systems and Applications in Engineering (IJISAE)
-* Publication Date: Jan 2023
-* E-ISSN: 2147-6799
+* Published In : International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences (IJIRMPS)
+* Publication Date: May 2022
+* E-ISSN: 2349-7300
+* Impact Factor : 9.907
 
 **Abstract:**
 Modern distributed systems generate diverse telemetry data, but isolated analysis of metrics, logs, and traces delays detection of systemwide failures. This work proposes a hybrid telemetry fusion framework that integrates multi source data into a unified representation for improved observability. By enabling cross layer correlation and temporal alignment, the approach captures early indicators of cascading failures more effectively. The framework enhances early detection capability and supports proactive identification of system instability in large scale distributed environments.
